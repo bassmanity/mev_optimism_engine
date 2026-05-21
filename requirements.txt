@@ -1,0 +1,5 @@
+# Core Ethereum / EVM Interaction
+web3>=7.15.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0

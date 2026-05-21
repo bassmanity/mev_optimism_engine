@@ -1,0 +1,162 @@
+{
+    "OP-WETH": {
+        "address": "0x4200000000000000000000000000000000000042",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0xFC1f3296458F9b2a27a0B91dd7681C4020E09D05",
+        "uni_fee": 500,
+        "velo_pool": "0xd25711EdfBf747efCE181442Cc1D8F5F8fc8a0D3",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "OP-USDC": {
+        "address": "0x4200000000000000000000000000000000000042",
+        "base_asset": "USDC",
+        "base_address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "uni_pool": "0xBCe00644e5535B68daf73d1528E8B08e6a14472c",
+        "uni_fee": 500,
+        "velo_pool": "0x67F56Ac099F11aD5F65E2ec804f75F2cEa6ab8C5",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "SNX-WETH": {
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0xB29a022Ff4b37BdFb21E5f1daFF4Af5A22aA9510",
+        "uni_fee": 500,
+        "velo_pool": "0x1Bf31A0932A0035c532A7b1DCB94ffe0b35aed14",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "SNX-USDC": {
+        "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+        "base_asset": "USDC",
+        "base_address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "uni_pool": "0xDE7b8F1874fCcc235476036db3B9473c8eDdb81b",
+        "uni_fee": 500,
+        "velo_pool": "0x894d6Ea97767EbeCEfE01c9410f6Bd67935AA952",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "LINK-WETH": {
+        "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0x8531E48a8611729185BE9eaaD945AcBd6b32E256",
+        "uni_fee": 500,
+        "velo_pool": "0xe774c48577B8fE126B4a52f9814f88097dEDbd7C",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "LINK-USDC": {
+        "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+        "base_asset": "USDC",
+        "base_address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "uni_pool": "0x2eD85aD8093FdefF2f5B0b1CfcA560dDc03c48Ed",
+        "uni_fee": 500,
+        "velo_pool": "0x8314f2d092C97EbdB327A57e0Ec5d32792Bf4071",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "WBTC-WETH": {
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0x85C31FFA3706d1cce9d525a00f1C7D4A2911754c",
+        "uni_fee": 500,
+        "velo_pool": "0x17547215D96696de1E1C8a9791D6dA18F92045AF",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "WBTC-USDC": {
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "base_asset": "USDC",
+        "base_address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "uni_pool": "0x394A9fcBab8599437d9Ec4e5A4a0EB7cb1fd2F69",
+        "uni_fee": 500,
+        "velo_pool": "0x9f06FfCBe41B9e248e15114CE3Bb4516F3A56A27",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "DAI-WETH": {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0x95d9D28606ee55De7667f0F176eBfc3215CFD9C0",
+        "uni_fee": 500,
+        "velo_pool": "0xdCAD52616E2689A5f14861300a5db91813a6c0e5",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "DAI-USDC": {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "base_asset": "USDC",
+        "base_address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "uni_pool": "0x3cbc1D79aC3dDeA5020eD9EdfB5f948FB7902107",
+        "uni_fee": 3000,
+        "velo_pool": "0x68217304567e909c80Fa5b12d83D2A985C01D7d4",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "USDT-WETH": {
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0xc858A329Bf053BE78D6239C4A4343B8FbD21472b",
+        "uni_fee": 500,
+        "velo_pool": "0x62270F70C750D66Cf10Bc8cBe12390B120498097",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "tBTC-WETH": {
+        "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0xa1507a6d0aa14f61cf9195ebd10cc15ecf1e40f2",
+        "uni_fee": 500,
+        "velo_pool": "0xec3d9098bd40ec741676fc04d4bd26bccf592aa3",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "UNI-USDC": {
+        "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+        "base_asset": "USDC",
+        "base_address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+        "uni_pool": "0xad4c666fc170b468b19988959eb931a3676f0e9f",
+        "uni_fee": 500,
+        "velo_pool": "0x8a7037cdaaed9a7924368e57183edc718a77ff6f",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "VELO-WETH": {
+        "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0xbcfac19a0036ada56496316ee5cf388c2af2bf58",
+        "uni_fee": 500,
+        "velo_pool": "0x58e6433a6903886e440ddf519ecc573c4046a6b2",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "WLD-WETH": {
+        "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0x2ae3d6096d8215ac2acddf30c60caa984ea5debe",
+        "uni_fee": 500,
+        "velo_pool": "0xe188c32a2aa8e65f9ab141f5e96f8fa96b1b7757",
+        "velo_type": "volatile-v2",
+        "velo_route_data": 0
+    },
+    "wstETH-WETH": {
+        "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+        "base_asset": "WETH",
+        "base_address": "0x4200000000000000000000000000000000000006",
+        "uni_pool": "0x04f6c85a1b00f6d9b75f91fd23835974cc07e65c",
+        "uni_fee": 500,
+        "velo_pool": "0xbf30ff33cf9c6b0c48702ff17891293b002dfea4",
+        "velo_type": "v3",
+        "velo_route_data": 0
+    }
+}
